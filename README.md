@@ -30,7 +30,7 @@ CSE Graduate and Software Engineer / Full Stack Developer based in Bangladesh. I
 
 ## Featured work
 
-1. **[Tax Compliance Workflow Platform](https://github.com/NazmusSakib3/Tax-Compliance-Workflow-Platform_)** — Modular monolith for recurring tax & compliance work (ASP.NET Core 8 + Angular 18, RBAC, multi-tenant data, audit logging, Docker).
+1. **[Tax Compliance Workflow Platform](https://github.com/NazmusSakib3/Tax-Compliance-Workflow-Platform-)** — Modular monolith for recurring tax & compliance work (ASP.NET Core 8 + Angular 18, RBAC, multi-tenant data, audit logging, Docker).
 2. **[Strikebot](https://github.com/NazmusSakib3/Strikebot)** — Anti-spam & phishing Discord bot with threat feeds, heuristics, and a moderator-approved strike ladder.
 3. **[Tic-Tac-Toe Multiplayer](https://github.com/NazmusSakib3/tic-tac-toe-firebase-multiplayer)** — Local, AI, and online multiplayer with vanilla JS and Firebase.
 
