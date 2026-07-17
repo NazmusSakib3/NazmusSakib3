@@ -41,8 +41,8 @@ Shipping solid full-stack systems and sharpening design around APIs, auth, and r
 ## GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NazmusSakib3&show_icons=true&theme=dark&hide_border=true" alt="Nazmus Sakib's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmusSakib3&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=NazmusSakib3&show_icons=true&theme=dark&hide_border=true" alt="Nazmus Sakib's GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NazmusSakib3&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
 
 ## Connect
